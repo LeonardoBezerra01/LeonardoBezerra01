@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Leonardo Bezerra 😁
+## Bem-vindo(a) ao perfil do Leonardo Bezerra
 
  <div>
    <a href="https://github.com/LeonardoBezerra01">
