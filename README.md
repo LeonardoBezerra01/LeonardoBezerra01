@@ -1,21 +1,17 @@
-## Bem-vindo(a) ao perfil do Leonardo Bezerra
+## Olá, seja bem-vindo(a) ao meu perfil no GitHub!
 
- <div>
-   <a href="https://github.com/LeonardoBezerra01">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBezerra01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBezerra01&layout=compact&langs_count=6&theme=tokyonight"/>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBezerra01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoBezerra01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBezerra01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
     
-<!--<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>-->
- 
 <br>
  
-### Links para mais alguns perfis socias abaixo!
- 
 <div> 
-  <a href="https://www.linkedin.com/in/leonardobezerra01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardobezerra01/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a> 
 </div>
